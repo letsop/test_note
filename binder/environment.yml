@@ -1,4 +1,4 @@
-name: sigmoid
+name: 
 channels:
 - conda-forge
 - defaults
@@ -99,4 +99,3 @@ dependencies:
   - jupyter-core==4.4.0
   - jupyterlab-launcher==0.10.2
   - prompt-toolkit==1.0.15
-prefix: /home/romain/anaconda3/envs/sigmoid
