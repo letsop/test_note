@@ -99,4 +99,3 @@ dependencies:
   - jupyter-client==5.2.2
   - jupyter-core==4.4.0
   - jupyterlab-launcher==0.10.2
-- prompt-toolkit==1.0.15
