@@ -28,7 +28,7 @@ dependencies:
 - matplotlib=2.1.2=py36_0
 - ncurses=5.9=10
 - numpy=1.14.1=py36_blas_openblas_200
-- scipy=1.0.0=py36h1de22e9_0
+- scipy=1.0.0
 - openblas=0.2.20=7
 - openssl=1.0.2n=0
 - pcre=8.39=0
